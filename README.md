@@ -81,11 +81,11 @@ enigmatic-aura/
 ## 📬 Contact Us
 
 Connect with us through our social channels:
-- **GitHub**: [Your Repository](https://github.com/your-username/enigmatic-aura)
-- **Notion**: [Enigmatic Aura Notion](https://www.notion.so/)
-- **Gitbook**: [Documentation](https://gitbook.com/)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/)
-- **Telegram**: [Community Chat](https://t.me/)
+- **GitHub**: [Github](https://github.com/adicahyadir/enigmatic-aura/)
+- **Notion**: [#](https://www.notion.so/)
+- **Gitbook**: [#](https://gitbook.com/)
+- **Twitter**: [#](https://twitter.com/)
+- **Telegram**: [#](https://t.me/)
 
 ---
 
