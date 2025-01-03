@@ -108,17 +108,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 🌌 **Enigmatic Aura** – Your trusted partner in exploring the Web3 universe. Let's shape the future together!
 ```
-
-### **Peningkatan yang Ditambahkan:**
-1. **Desain yang Lebih Terstruktur**: Menambahkan bagian seperti "Features," "Project Structure," dan "Tech Stack" untuk memberi kesan profesional.
-2. **Visual Menarik**: Menggunakan emoji untuk membuatnya lebih menarik secara visual.
-3. **Komunikasi Jelas**: Menyertakan detail langkah-langkah kontribusi dan kontak.
-4. **Branding**: Menekankan "Web3" untuk menarik perhatian audiens yang relevan.
-
-Simpan file ini dan commit ke repositori Anda:
-
-```bash
-git add README.md
-git commit -m "Enhanced README with better structure and design"
-git push origin main
-``` 
