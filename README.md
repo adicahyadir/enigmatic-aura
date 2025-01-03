@@ -97,8 +97,6 @@ We welcome contributions from the community! Whether you're fixing bugs, improvi
 2. Create a new branch for your changes.
 3. Submit a pull request.
 
-For detailed guidelines, check the [protocol.land documentation](https://protocol.land/docs/contribute).
-
 ---
 
 ## 📝 License
