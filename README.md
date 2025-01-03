@@ -1,6 +1,6 @@
 # Enigmatic Aura
 
-[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/<REPO_ID>)
+[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/0e6293ea-9f61-4c05-9689-6e42c270f76a)
 
 Enigmatic Aura is your gateway to Web3! 🚀 This project focuses on empowering users with tools and resources for:
 - **Testnets**
